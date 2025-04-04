@@ -72,4 +72,4 @@ enableEmoji = true
 
 [services]
   [services.disqus]
-    shortname = 'disqus_VL5FwzLmpE'
+    shortname = 'renli.site'
