@@ -1,0 +1,28 @@
+disabled = false
+languageCode = "zh-cn"
+languageName = "Chinese"
+weight = 0
+title = ""
+
+[params]
+  displayName = "ZH"
+  isoCode = "zh-cn"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "img/logo_name_black_remove.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  description = "Renli Site"
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+[params.author]
+  name = "Renli"
+  email = "renli.altas@outlook.com"
+  image = "img/apricot.jpg"
+  imageQuality = 96
+  headline = "关关险隘关关踏，此身已向青山外"
+  bio = "Interesting in AI and IC"
+  links = [
+    { email = "renli.altas@outlook.com" },
+    { link = "https://renli.site/" },
+    { github = "https://github.com/renli-altas" },
+  ]

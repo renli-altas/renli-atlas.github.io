@@ -1,0 +1,4 @@
+baseURL = 'https://renli.site/'
+languageCode = 'zh-cn'
+title = 'Renli Site'
+theme = "blowfish"
