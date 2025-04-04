@@ -1,4 +1,4 @@
-baseURL = 'https://renli.site/'
+baseURL = 'https://renli-altas.github.io/blog/'
 languageCode = 'zh-cn'
 title = 'Renli Site'
 theme = "blowfish"
