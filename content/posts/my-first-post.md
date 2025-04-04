@@ -10,4 +10,4 @@ This is **bold** text, and this is *emphasized* text.
 
 Visit the [Hugo](https://gohugo.io) website!
 
-你好，啥歇息，真的吗，哈哈哈
+你好，真的吗，哈哈哈
